@@ -23,8 +23,8 @@ Greetings! My name is Chad O, and I'm a passionate professional deeply immersed 
 
 ## 🔍 Current Projects 🌟
 
-- **Website Development for Business:** Engaged in crafting a website for a business, leveraging web development and design skills to create an impactful online presence.
-- **AI Service for Transcription:** Actively developing an AI-powered service specializing in transcribing audio into text, merging my interest in AI with practical applications for productivity and accessibility.
+- **Website Development for Business:** Engaged in crafting a website for a business, leveraging web development and design skills to create an impactful online presence. (Although this is private)
+- **OllamaDroid** Ollama client for Android. Allows users to connect to a self-hosted Ollama instance.
 
 ## 🎨 Interests and Hobbies 🤖
 
@@ -35,3 +35,5 @@ Apart from my professional pursuits, I'm passionate about exploring AI and exper
 If you'd like to connect or discuss potential collaborations, feel free to reach out via email at [lvnvceo@gmail.com](mailto:lvnvceo@gmail.com). I'm always eager to engage with like-minded professionals and explore new opportunities in the ever-evolving tech landscape.
 
 Thank you for taking the time to learn more about me. I'm excited about the possibility of collaborating with you in the future! 🌟
+
+(totally didn't have AI generate this... 🙃)
